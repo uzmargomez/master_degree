@@ -2,7 +2,7 @@
 
 ## Vocabulary
 
-Rubbish, tremble, cuisine, ran out of time, catch a cold, as for, rather than, vast majority, throughout, considerably, released, is a must have.
+Rubbish, tremble, cuisine, ran out of time, catch a cold, as for, rather than, vast majority, throughout, considerably, released, is a must have, bitterly cold, highlight.
 
 ## Writing Task 1
 
