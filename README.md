@@ -6,7 +6,7 @@ Repositories:
 
 - [thesis_physics](https://github.com/uzmargomez/thesis_physics)
 
-    Research project about the numerical simulation of the Vlasov Equation. The pdf document is named `thesis_uzmar.pdf`, and it is written in Spanish. The Fortran code is on the file `thesis_physics/code/vlasov_sphere.f90`.
+    Research project about the numerical simulation of the Vlasov Equation. The pdf document is named `thesis_uzmar.pdf`, and it is written in Spanish using LaTeX. The Fortran code is on the file `thesis_physics/code/vlasov_sphere.f90`.
     
 - [curriculum_vitae](https://github.com/uzmargomez/curriculum_vitae)
 
