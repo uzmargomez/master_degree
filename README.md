@@ -4,6 +4,8 @@ Repository made to highlight some of the work I have done that could be relevant
 
 Repositories:
 
+- [covid19](https://github.com/uzmargomez/covid19)
+
 - [thesis_physics](https://github.com/uzmargomez/thesis_physics)
 
     Research project about the numerical simulation of the Vlasov Equation. The pdf document is named `thesis_uzmar.pdf`, and it is written in Spanish using LaTeX. The Fortran code is on the file `thesis_physics/code/vlasov_sphere.f90`.
