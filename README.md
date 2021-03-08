@@ -1,6 +1,6 @@
 # MSc Scientific Computing and Data Analysis. Durham University
 
-Repository made to highlight some of the work I have done that could be relevant for my application to the MSc.
+Repository made to highlight some of the work I have done that could be relevant for my application to the MSc. Please consider most of my work has been used for companies I have worked with, so I cannot have it on my personal repository and I can't make it public either.
 
 Repositories:
 
