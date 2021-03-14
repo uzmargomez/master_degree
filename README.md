@@ -8,6 +8,10 @@ Repositories:
 
     Solved exercises of the [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals). Great course, it goes through the basics of Data Structures and Algorithms, and it is also a great refresher of the C++ programming language. This specific repository is private since the solutions for the assignments cannot be made public.
 
+- [content_attribution](https://github.com/uzmargomez/content_attribution)
+
+    Python code for Markov Attribution. This is not intended to be production code, as is too slow, it was created just to land ideas.
+
 - [chatbot](https://github.com/uzmargomez/chatbot)
 
     POC Chatbot, it can be connected to Whatsapp through Twilio. It uses the RASA Framework.
