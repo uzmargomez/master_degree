@@ -7,6 +7,14 @@ Repositories:
 - [data_structures_algorithms_and_c](https://github.com/uzmargomez/data_structures_algorithms_and_c)
 
     Solved exercises of the [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals). Great course, it goes through the basics of Data Structures and Algorithms, and it is also a great refresher of the C++ programming language. This specific repository is private since the solutions for the assignments cannot be made public.
+    
+- [neuron](https://github.com/uzmargomez/neuron)
+
+    Some code I created to better understand the basics of neural networks    
+ 
+- [look_tests](https://github.com/uzmargomez/look_tests)
+
+    Face detection and recognition system, using Sparse Representation and FaceNet.
 
 - [content_attribution](https://github.com/uzmargomez/content_attribution)
 
@@ -15,10 +23,6 @@ Repositories:
 - [chatbot](https://github.com/uzmargomez/chatbot)
 
     POC Chatbot, it can be connected to Whatsapp through Twilio. It uses the RASA Framework.
-
-- [look_test](https://github.com/uzmargomez/look_tests)
-
-    Face detection and recognition system, using Sparse Representation and FaceNet.
 
 - [covid19](https://github.com/uzmargomez/covid19)
 
